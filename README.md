@@ -25,4 +25,7 @@ I have 5 main goals I want to achieve within the next few years
 
 ## _Hobbies_
 - My biggest hobby right now is defninitely the gym, but I also play video games such as rocket league and osu!.
-- 
+- I also love to build huge projects on computers and in real life.
+- Playing soccer
+- Learning languages (Currently known: English, Spanish) (Learning: Russian, French, Arabic)
+- Trying out new things! I'd love to learn how to play an instrument soon in the future. 
