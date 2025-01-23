@@ -14,7 +14,7 @@ flowchart TD
 
 ```
 
-#How the game works
+## How the game works
 - First the user guesses a number 
 - If they get it right first try, the game ends
 - If they get it wrong, the program decides whether the number is high or low
